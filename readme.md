@@ -1,6 +1,6 @@
 Ketamine ver00, a Py3 script by Lunaerosol
 https://github.com/Lunaersol/ketamineM
-Put the scriptin the same folder as Quasar !
+Put the script in the same folder as Quasar !
 Command list:
 charlist : prints out all non-echo codenames
 varialist : prints out all the echo codenames
